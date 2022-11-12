@@ -1,0 +1,8 @@
+C:\Users\KONGNYUY\Desktop\CSharpWork\RandomNumber\RandomNumber\bin\Debug\RandomNumber.exe.config
+C:\Users\KONGNYUY\Desktop\CSharpWork\RandomNumber\RandomNumber\bin\Debug\RandomNumber.exe
+C:\Users\KONGNYUY\Desktop\CSharpWork\RandomNumber\RandomNumber\bin\Debug\RandomNumber.pdb
+C:\Users\KONGNYUY\Desktop\CSharpWork\RandomNumber\RandomNumber\obj\Debug\RandomNumber.csproj.AssemblyReference.cache
+C:\Users\KONGNYUY\Desktop\CSharpWork\RandomNumber\RandomNumber\obj\Debug\RandomNumber.csproj.SuggestedBindingRedirects.cache
+C:\Users\KONGNYUY\Desktop\CSharpWork\RandomNumber\RandomNumber\obj\Debug\RandomNumber.csproj.CoreCompileInputs.cache
+C:\Users\KONGNYUY\Desktop\CSharpWork\RandomNumber\RandomNumber\obj\Debug\RandomNumber.exe
+C:\Users\KONGNYUY\Desktop\CSharpWork\RandomNumber\RandomNumber\obj\Debug\RandomNumber.pdb
